@@ -9,6 +9,11 @@ Please do not make derivatives of these logos or use them to brand unofficial Th
 
 Thanks!
 
+Colors
+======
+- ![#3F51B5](https://placehold.it/15/3F51B5?text=+) &nbsp;**Primary color:** `#3F51B5`
+- ![#FFD600](https://placehold.it/15/FFD600?text=+) &nbsp;**Accent color:** `#FFD600`
+
 Android Icons
 =============
 Android icons are designed following the guidelines here: https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec
